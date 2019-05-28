@@ -1,6 +1,6 @@
 # LCOM_1819
-Developed during the course Computer Laboratory in FEUP, in collaboration with Sílvia Rocha (@silviavrocha).
-Final Grade: 18
+<p>Developed during the course Computer Laboratory in FEUP, in collaboration with Sílvia Rocha (@silviavrocha).<br>
+Final Grade: 18</p>
 
 <h4>Description of the course:</h4>
 <p>This course unit aims to endow students with the knowledge and the skills required to:</p>
