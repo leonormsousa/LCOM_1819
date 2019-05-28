@@ -10,3 +10,12 @@ This course unit aims to endow students with the knowledge and the skills requir
 
 Several short lab assignments, each focusing on one I/O device.
 One integration project: must use at least 3 different I/O devices, must use interrupts and should use both C and assembly.
+
+Grades:
+Lab2: 96/100
+Lab3: 95/100
+Lab4: 82/100
+Lab5: 83/100
+Project: 17.1/20
+Test: 20/20
+Final Grade:18/20
